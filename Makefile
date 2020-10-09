@@ -1,6 +1,6 @@
 NAME=ring-doorbell
 VERSION=1.10
-IMAGE_NAME=registry:5000/birchbox/$(NAME):$(VERSION)
+IMAGE_NAME=registry:5000/wdstorer/$(NAME):$(VERSION)
 APP_VERSION_FILE=VERSION
 SRC_DIR=./src
 
