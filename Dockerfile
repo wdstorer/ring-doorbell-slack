@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER Will Storer <william@birchbox.com>
+MAINTAINER Will Storer <wdstorer@gmail.com>
 
 ENV SERVICE_NAME ring-doorbell
 
